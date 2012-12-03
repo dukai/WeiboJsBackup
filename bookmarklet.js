@@ -1,0 +1,1 @@
+javascript:void%20function(){var%20s=document.createElement("script");s.src="http://1.weibotimemachine.sinaapp.com/weibo.js";document.body.appendChild(s)}();
